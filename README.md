@@ -73,7 +73,7 @@ Run index.html in any modern browser (Chrome recommended)
 Click the 🎤 Mic button or say your trigger phrase to start speaking!
 
 🌍 Live Demo
-🔗 Live App: https://anuneet323.github.io/JARVIS/
+🔗 Live App: (https://jarvis-sandy-one.vercel.app/)
 (Replace with your live link once deployed.)
 
 🎨 UI Preview
